@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2057454476781654232",
+    "created_at": "2026-05-21T22:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T23:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057592405759791480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919465517829783552",
+          "start": 0,
+          "username": "KviSin_17"
+        },
+        {
+          "end": 24,
+          "id": "1505314795070709769",
+          "start": 11,
+          "username": "OskanaShadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057592405759791480",
+    "in_reply_to_user_id": "1919465517829783552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057454476781654232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KviSin_17 @OskanaShadow 🫣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057454469819064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2L8H8a4AA2Pmy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2057454476781654232",
+        "created_at": "2026-05-21T22:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057592405759791480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "KviSin_17"
+            },
+            {
+              "end": 24,
+              "id": "1505314795070709769",
+              "start": 11,
+              "username": "OskanaShadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057592405759791480",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057454476781654232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KviSin_17 @OskanaShadow 🫣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057454469819064320"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2057454476781654232",
+        "created_at": "2026-05-21T13:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057454476781654232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505314795070709769",
+              "start": 0,
+              "username": "OskanaShadow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2cXMWUmMP4",
+              "end": 43,
+              "expanded_url": "https://x.com/KviSin_17/status/2057454476781654232/photo/1",
+              "media_key": "3_2057454469819064320",
+              "start": 20,
+              "url": "https://t.co/2cXMWUmMP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057454476781654232",
+        "in_reply_to_user_id": "1505314795070709769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@OskanaShadow 我他笑死了 https://t.co/2cXMWUmMP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AQOycPhNzZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AQOycPhNzZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 522,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "KviSinnnnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145145183883264/W0Y-Ok86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 82
+        },
+        "username": "KviSin_17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T22:46:58.000Z",
+        "description": "He said he was saving free speech, made us create content, asked us to get verified, went to the Wailing (Roman) Wall, and gave the keys over to the Niozists.",
+        "id": "1505314795070709769",
+        "location": "From Eurasia",
+        "name": "Оксана-бунтарка (Oksana 🇰🇿❤️🐻)",
+        "pinned_tweet_id": "1904550453335273658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795844539430920192/ozIS2UqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5736,
+          "following_count": 587,
+          "like_count": 132420,
+          "listed_count": 69,
+          "media_count": 3068,
+          "tweet_count": 36606
+        },
+        "username": "OskanaShadow",
+        "verified": false
+      }
+    ]
+  }
+}

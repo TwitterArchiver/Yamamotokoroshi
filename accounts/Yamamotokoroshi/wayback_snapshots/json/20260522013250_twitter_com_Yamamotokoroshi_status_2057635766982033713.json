@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057428251111510016",
+        "3_2057428251145015296",
+        "3_2057428251115675648"
+      ],
+      "media_source_tweet_id": [
+        "2057428313220764072",
+        "2057428313220764072",
+        "2057428313220764072"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057635766982033713",
+    "created_at": "2026-05-22T01:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057635766982033713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989965282799226880",
+          "start": 3,
+          "username": "DQadopt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G0yZxsqi5q",
+          "end": 87,
+          "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+          "media_key": "3_2057428251111510016",
+          "start": 64,
+          "url": "https://t.co/G0yZxsqi5q"
+        },
+        {
+          "display_url": "pic.x.com/G0yZxsqi5q",
+          "end": 87,
+          "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+          "media_key": "3_2057428251145015296",
+          "start": 64,
+          "url": "https://t.co/G0yZxsqi5q"
+        },
+        {
+          "display_url": "pic.x.com/G0yZxsqi5q",
+          "end": 87,
+          "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+          "media_key": "3_2057428251115675648",
+          "start": 64,
+          "url": "https://t.co/G0yZxsqi5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057635766982033713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057428313220764072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DQadopt: 抖人你继续拿颜料装作用血画画小众逼\n一眼就看出来真血画画和假血画画的区别…….这滴水真的不是在搞笑吗 https://t.co/G0yZxsqi5q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057428251111510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_pa0AAiJWn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057428251145015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_xaEAAx3gh.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057428251115675648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_qaYAA4xMg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057428251111510016",
+            "3_2057428251145015296",
+            "3_2057428251115675648"
+          ],
+          "media_source_tweet_id": [
+            "2057428313220764072",
+            "2057428313220764072",
+            "2057428313220764072"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057635766982033713",
+        "created_at": "2026-05-22T01:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057635766982033713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989965282799226880",
+              "start": 3,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 87,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251111510016",
+              "start": 64,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 87,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251145015296",
+              "start": 64,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 87,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251115675648",
+              "start": 64,
+              "url": "https://t.co/G0yZxsqi5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057635766982033713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057428313220764072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DQadopt: 抖人你继续拿颜料装作用血画画小众逼\n一眼就看出来真血画画和假血画画的区别…….这滴水真的不是在搞笑吗 https://t.co/G0yZxsqi5q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057428251111510016",
+            "3_2057428251145015296",
+            "3_2057428251115675648"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057428313220764072",
+        "created_at": "2026-05-21T11:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057428313220764072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251111510016",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251145015296",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251115675648",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428313220764072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 89520,
+          "like_count": 663,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "抖人你继续拿颜料装作用血画画小众逼\n一眼就看出来真血画画和假血画画的区别…….这滴水真的不是在搞笑吗 https://t.co/G0yZxsqi5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AQOycPhNzZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AQOycPhNzZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 524,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 339,
+          "like_count": 3422,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4094
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

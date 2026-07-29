@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052590632506654720"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2052590699040903359",
+    "created_at": "2026-05-08T03:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052590699040903359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZiOT2gsdX",
+          "end": 66,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2052590699040903359/video/1",
+          "media_key": "13_2052590632506654720",
+          "start": 43,
+          "url": "https://t.co/aZiOT2gsdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052590699040903359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天好开心～～～大早上就吃到了加巴喷丁～，硫辛酸和b6让我的皮肤变白了～～好开心～～ https://t.co/aZiOT2gsdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12966,
+        "height": 720,
+        "media_key": "13_2052590632506654720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052590632506654720/img/pYSgxPCP0RSo3IMx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052590632506654720/vid/avc1/480x270/ATEVYM-W3jnqS6lB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052590632506654720/vid/avc1/640x360/KZsb7528-LYQUoB8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052590632506654720/vid/avc1/1280x720/zvfVcaAB3-PdHaZS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052590632506654720/pl/2RETgaAtdPmAXqiV.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052590632506654720"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052590699040903359",
+        "created_at": "2026-05-08T03:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052590699040903359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZiOT2gsdX",
+              "end": 66,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052590699040903359/video/1",
+              "media_key": "13_2052590632506654720",
+              "start": 43,
+              "url": "https://t.co/aZiOT2gsdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052590699040903359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天好开心～～～大早上就吃到了加巴喷丁～，硫辛酸和b6让我的皮肤变白了～～好开心～～ https://t.co/aZiOT2gsdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀\n退役Oder/不🔪🩸/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/YjAU8VpBMl"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 377,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/YjAU8VpBMl",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2052398664455528684",
+    "created_at": "2026-05-07T14:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052400682100212146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035399760765698048",
+          "start": 0,
+          "username": "BiGuan7704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052400682100212146",
+    "in_reply_to_user_id": "2035399760765698048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052398664455528684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiGuan7704 不会捏有cd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052398664455528684",
+        "created_at": "2026-05-07T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052400682100212146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035399760765698048",
+              "start": 0,
+              "username": "BiGuan7704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052400682100212146",
+        "in_reply_to_user_id": "2035399760765698048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052398664455528684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiGuan7704 不会捏有cd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035399760765698048",
+        "conversation_id": "2052398664455528684",
+        "created_at": "2026-05-07T14:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052398664455528684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052398664455528684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天吃致幻剂天天想吃致幻剂，这玩意儿会成瘾吗话说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀\n退役Oder/不🔪🩸/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/YjAU8VpBMl"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 371,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/YjAU8VpBMl",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T16:55:01.000Z",
+        "description": "裏垢｜01老不死的｜随意称呼，自言自语中，偶尔吃点小药｜请和我交朋友：）",
+        "id": "2035399760765698048",
+        "location": "太湖湖底",
+        "name": "閉館_",
+        "pinned_tweet_id": "2042832178556604670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035417691432103936/3n1iH5gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 70,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 605
+        },
+        "username": "BiGuan7704",
+        "verified": false
+      }
+    ]
+  }
+}

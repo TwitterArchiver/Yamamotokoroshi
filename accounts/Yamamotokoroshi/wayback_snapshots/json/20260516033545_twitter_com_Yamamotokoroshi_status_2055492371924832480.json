@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054947263903043584",
+        "3_2054947264326688768"
+      ],
+      "media_source_tweet_id": [
+        "2054947266855874825",
+        "2054947266855874825"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2055492371924832480",
+    "created_at": "2026-05-16T03:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055492371924832480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "コルセットピアス"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "自撮り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600821405704425472",
+          "start": 3,
+          "username": "Sino_Nosuke44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DHLkj4eZwD",
+          "end": 76,
+          "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+          "media_key": "3_2054947263903043584",
+          "start": 53,
+          "url": "https://t.co/DHLkj4eZwD"
+        },
+        {
+          "display_url": "pic.x.com/DHLkj4eZwD",
+          "end": 76,
+          "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+          "media_key": "3_2054947264326688768",
+          "start": 53,
+          "url": "https://t.co/DHLkj4eZwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055492371924832480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054947266855874825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sino_Nosuke44: 念願よコルセットピアス開けたよん\n #コルセットピアス  #自撮り https://t.co/DHLkj4eZwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2054947263903043584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISjpiEaEAA0dhJ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2054947264326688768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISjpjpaYAAN_fn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054947263903043584",
+            "3_2054947264326688768"
+          ],
+          "media_source_tweet_id": [
+            "2054947266855874825",
+            "2054947266855874825"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2055492371924832480",
+        "created_at": "2026-05-16T03:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055492371924832480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "コルセットピアス"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "自撮り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600821405704425472",
+              "start": 3,
+              "username": "Sino_Nosuke44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHLkj4eZwD",
+              "end": 76,
+              "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+              "media_key": "3_2054947263903043584",
+              "start": 53,
+              "url": "https://t.co/DHLkj4eZwD"
+            },
+            {
+              "display_url": "pic.x.com/DHLkj4eZwD",
+              "end": 76,
+              "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+              "media_key": "3_2054947264326688768",
+              "start": 53,
+              "url": "https://t.co/DHLkj4eZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055492371924832480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054947266855874825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sino_Nosuke44: 念願よコルセットピアス開けたよん\n #コルセットピアス  #自撮り https://t.co/DHLkj4eZwD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054947263903043584",
+            "3_2054947264326688768"
+          ]
+        },
+        "author_id": "1600821405704425472",
+        "conversation_id": "2054947266855874825",
+        "created_at": "2026-05-14T15:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054947266855874825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "コルセットピアス"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHLkj4eZwD",
+              "end": 57,
+              "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+              "media_key": "3_2054947263903043584",
+              "start": 34,
+              "url": "https://t.co/DHLkj4eZwD"
+            },
+            {
+              "display_url": "pic.x.com/DHLkj4eZwD",
+              "end": 57,
+              "expanded_url": "https://x.com/Sino_Nosuke44/status/2054947266855874825/photo/1",
+              "media_key": "3_2054947264326688768",
+              "start": 34,
+              "url": "https://t.co/DHLkj4eZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054947266855874825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 852,
+          "impression_count": 827974,
+          "like_count": 8914,
+          "quote_count": 481,
+          "reply_count": 78,
+          "retweet_count": 644
+        },
+        "reply_settings": "everyone",
+        "text": "念願よコルセットピアス開けたよん\n #コルセットピアス  #自撮り https://t.co/DHLkj4eZwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/t0qygPAOpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/caFP7tNhdGRA…",
+                "end": 127,
+                "expanded_url": "https://www.kdocs.cn/l/caFP7tNhdGRA?f=301",
+                "start": 104,
+                "url": "https://t.co/t0qygPAOpE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 509,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:55:59.000Z",
+        "description": "好きな事して生きる🐱イラストレーター(@Nosuke___4)兼📸コスプレイヤー(たまにHなの貼る)\n#リク撮 受け付けてます(東京近郊)\n#合わせ 誘って下さい\n#カメラマン 募集(ハートフル撮影会)いる所▶@nosuke_sweet",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "リク撮"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "合わせ"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "カメラマン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Nosuke___4"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "nosuke_sweet"
+              }
+            ]
+          }
+        },
+        "id": "1600821405704425472",
+        "location": "ニディガ信仰",
+        "name": "のすけ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996923493624303623/O-1xBpO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 28,
+          "like_count": 985,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 485
+        },
+        "username": "Sino_Nosuke44",
+        "verified": false
+      }
+    ]
+  }
+}

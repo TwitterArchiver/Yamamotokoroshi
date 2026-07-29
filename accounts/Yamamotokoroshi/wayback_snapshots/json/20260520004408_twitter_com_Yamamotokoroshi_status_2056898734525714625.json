@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056547601936420864"
+      ],
+      "media_source_tweet_id": [
+        "2056547607770710500"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2056898734525714625",
+    "created_at": "2026-05-20T00:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056898734525714625"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 81,
+          "tag": "幽幻怪社もののけ本舗"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "妖装"
+        },
+        {
+          "end": 107,
+          "start": 97,
+          "tag": "Liz_world"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1316362043293749249",
+          "start": 3,
+          "username": "riri_morayeel"
+        },
+        {
+          "end": 78,
+          "id": "2748765817",
+          "start": 67,
+          "username": "hirosi_ppp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbnLu08bNB",
+          "end": 131,
+          "expanded_url": "https://x.com/riri_morayeel/status/2056547607770710500/photo/1",
+          "media_key": "3_2056547601936420864",
+          "start": 108,
+          "url": "https://t.co/cbnLu08bNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056898734525714625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056547607770710500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riri_morayeel: 成レノ果テ\n\n┈┈┈┈┈┈┈┈┈┈\n創作 黒い蝶の式神【月詠】ﾂｸﾖﾐ\nphoto:ヒロシさん(@hirosi_ppp )\n#幽幻怪社もののけ本舗 #妖装 #Liz_world https://t.co/cbnLu08bNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056547601936420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpTJd0aEAAdEHv.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056547601936420864"
+          ],
+          "media_source_tweet_id": [
+            "2056547607770710500"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2056898734525714625",
+        "created_at": "2026-05-20T00:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056898734525714625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "幽幻怪社もののけ本舗"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "妖装"
+            },
+            {
+              "end": 107,
+              "start": 97,
+              "tag": "Liz_world"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1316362043293749249",
+              "start": 3,
+              "username": "riri_morayeel"
+            },
+            {
+              "end": 78,
+              "id": "2748765817",
+              "start": 67,
+              "username": "hirosi_ppp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbnLu08bNB",
+              "end": 131,
+              "expanded_url": "https://x.com/riri_morayeel/status/2056547607770710500/photo/1",
+              "media_key": "3_2056547601936420864",
+              "start": 108,
+              "url": "https://t.co/cbnLu08bNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056898734525714625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056547607770710500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riri_morayeel: 成レノ果テ\n\n┈┈┈┈┈┈┈┈┈┈\n創作 黒い蝶の式神【月詠】ﾂｸﾖﾐ\nphoto:ヒロシさん(@hirosi_ppp )\n#幽幻怪社もののけ本舗 #妖装 #Liz_world https://t.co/cbnLu08bNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056547601936420864"
+          ]
+        },
+        "author_id": "1316362043293749249",
+        "conversation_id": "2056547607770710500",
+        "created_at": "2026-05-19T01:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056547607770710500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 62,
+              "tag": "幽幻怪社もののけ本舗"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "妖装"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "Liz_world"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 59,
+              "id": "2748765817",
+              "start": 48,
+              "username": "hirosi_ppp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbnLu08bNB",
+              "end": 112,
+              "expanded_url": "https://x.com/riri_morayeel/status/2056547607770710500/photo/1",
+              "media_key": "3_2056547601936420864",
+              "start": 89,
+              "url": "https://t.co/cbnLu08bNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056547607770710500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2264,
+          "impression_count": 188661,
+          "like_count": 17662,
+          "quote_count": 18,
+          "reply_count": 14,
+          "retweet_count": 1644
+        },
+        "reply_settings": "everyone",
+        "text": "成レノ果テ\n\n┈┈┈┈┈┈┈┈┈┈\n創作 黒い蝶の式神【月詠】ﾂｸﾖﾐ\nphoto:ヒロシさん(@hirosi_ppp )\n#幽幻怪社もののけ本舗 #妖装 #Liz_world https://t.co/cbnLu08bNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AQOycPhNzZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AQOycPhNzZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 489,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T12:55:50.000Z",
+        "description": "ﾘｽﾞ￤東海￤25↑￤妖装￤創作￤コスプレ￤ポートレート￤「強く儚く美しく」をモットーにコスプレしてまちゅ￤⚠︎︎許可のないAI取り込み禁止⚠︎︎￤ファンアート→ #Liz_FA 写真はここ→#Liz_world",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "Liz_FA"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "tag": "Liz_world"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ririmorayeel",
+                "end": 23,
+                "expanded_url": "https://lit.link/ririmorayeel",
+                "start": 0,
+                "url": "https://t.co/Ii2POv8f27"
+              }
+            ]
+          }
+        },
+        "id": "1316362043293749249",
+        "location": "幽幻怪社 もののけ本舗",
+        "name": "𝓛𝓲𝔃",
+        "pinned_tweet_id": "2018120226425151993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024664556522655744/SWK2KJRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4110,
+          "following_count": 493,
+          "like_count": 8503,
+          "listed_count": 23,
+          "media_count": 583,
+          "tweet_count": 5640
+        },
+        "url": "https://t.co/Ii2POv8f27",
+        "username": "riri_morayeel",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-20T11:04:39.000Z",
+        "description": "たまに妖怪とかになります。写真撮る人。 Perfumeと山歩きと私。ヒロシ。\n\n無断転載禁止",
+        "id": "2748765817",
+        "location": "山、川",
+        "name": "不肖ヒロシ（ｲｯｿｸﾏﾝ）",
+        "pinned_tweet_id": "2006369663685706125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049835637264830464/GdnGkwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 3348,
+          "like_count": 153473,
+          "listed_count": 16,
+          "media_count": 2635,
+          "tweet_count": 32310
+        },
+        "username": "hirosi_ppp",
+        "verified": true
+      }
+    ]
+  }
+}

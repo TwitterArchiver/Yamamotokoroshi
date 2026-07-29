@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2053098224781853122",
+    "created_at": "2026-05-09T13:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053106615122084270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053106615122084270",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053098224781853122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2053098224781853122",
+        "created_at": "2026-05-09T13:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053106615122084270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053106615122084270",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053098224781853122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023762324038004736",
+        "conversation_id": "2053098224781853122",
+        "created_at": "2026-05-09T13:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053098224781853122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053098224781853122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的问题来了：我要不要吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 105,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 425,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "转推内容可能有血腥画面请注意 大号被封故开私信 非互关私信色情内容就会光速b人非常抱歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/DXWS26FaJd"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "小苏",
+        "pinned_tweet_id": "2052870315299201452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048996480149819392/2UIAbTWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 182,
+          "like_count": 3518,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/DXWS26FaJd",
+        "username": "salmon__sukiii",
+        "verified": false
+      }
+    ]
+  }
+}

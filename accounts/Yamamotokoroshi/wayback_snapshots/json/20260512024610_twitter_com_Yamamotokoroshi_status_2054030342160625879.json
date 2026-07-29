@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054030318882136064"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2054030342160625879",
+    "created_at": "2026-05-12T02:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054030342160625879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVLOiYoK7M",
+          "end": 67,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2054030342160625879/photo/1",
+          "media_key": "3_2054030318882136064",
+          "start": 44,
+          "url": "https://t.co/BVLOiYoK7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054030342160625879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿普和白兔联用挺经典的，主要是镇静，让你睡个好觉喵，看报告24mg可能会产生奇幻梦境🤔 https://t.co/BVLOiYoK7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054030318882136064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFhsTraIAAbS2W.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054030318882136064"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2054030342160625879",
+        "created_at": "2026-05-12T02:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054030342160625879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVLOiYoK7M",
+              "end": 67,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2054030342160625879/photo/1",
+              "media_key": "3_2054030318882136064",
+              "start": 44,
+              "url": "https://t.co/BVLOiYoK7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054030342160625879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普和白兔联用挺经典的，主要是镇静，让你睡个好觉喵，看报告24mg可能会产生奇幻梦境🤔 https://t.co/BVLOiYoK7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/t0qygPAgA6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/caFP7tNhdGRA…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/caFP7tNhdGRA?f=301",
+                "start": 105,
+                "url": "https://t.co/t0qygPAgA6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTPZHyp"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 466,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/N7xkTPZHyp",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

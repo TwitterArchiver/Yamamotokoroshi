@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2053407105554739237",
+    "created_at": "2026-05-10T10:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053424936820363478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052760341411708928",
+          "start": 0,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053424936820363478",
+    "in_reply_to_user_id": "2052760341411708928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053422157628330437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui17171Fei 原来如此，可能胃是真坏了..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2053422152616132608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH84kXyaQAASvvO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH84kXyaQAASvvO.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2053407105554739237",
+        "created_at": "2026-05-10T10:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053424936820363478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052760341411708928",
+              "start": 0,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053424936820363478",
+        "in_reply_to_user_id": "2052760341411708928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053422157628330437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui17171Fei 原来如此，可能胃是真坏了..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053422152616132608"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "conversation_id": "2053407105554739237",
+        "created_at": "2026-05-10T10:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053422157628330437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gU6rvdS9tK",
+              "end": 174,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2053422157628330437/photo/1",
+              "media_key": "16_2053422152616132608",
+              "start": 151,
+              "url": "https://t.co/gU6rvdS9tK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053422157628330437",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053407105554739237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 很正常的，经常吃药的话，肠胃会被大规模破坏，并且玉米里面含有氢溴酸，氢溴酸会造成小肠蠕动导致呕吐，白兔也是，为了防止别人药物滥用，都在药物里面添加一定的催吐成分，初次接触的话24t基本不会呕吐,但如果长期吃药,哪怕12t,因为药物对肠胃的伤害加上催吐成分，呕吐很正常 https://t.co/gU6rvdS9tK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 105,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 447,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 149,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 81
+        },
+        "username": "Sui17171Fei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2047289899322351833",
+    "created_at": "2026-04-24T00:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047465982869090362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "Z3r0_404Error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047465982869090362",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047392265300283549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3r0_404Error 其实我看到了很多，但是能记下的只有我意识里没有看到过的场景了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2047289899322351833",
+        "created_at": "2026-04-24T00:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047465982869090362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "Z3r0_404Error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465982869090362",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047392265300283549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3r0_404Error 其实我看到了很多，但是能记下的只有我意识里没有看到过的场景了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "2047289899322351833",
+        "created_at": "2026-04-23T19:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047392265300283549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047392265300283549",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047289899322351833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 終於看到知音啊⋯⋯\n海邊微微吹拂的輕風，大海咸濕的味道，一切幻覺任君想像，可以是放不下的過去、可以是憧憬但還沒發生的未來，甚至可以觀察一段根本不是自己現實周遭國家的日常生活，一切秩序和混沌就在使用人的一念之間⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 57,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "雙相患者，老頭，迴避型人格障礙\n喜歡按讚repost一些愛看的東西，或者甩點日常或者遊戲寫真，會給喜歡的老師按讚repost",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B5%90%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B5%90%E6%9C%88",
+                "start": 0,
+                "url": "https://t.co/z8qqfA6E0B"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "City of glitch",
+        "name": "Z3r0",
+        "pinned_tweet_id": "2047377304616407435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045962857557401600/Yq6rUZJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 164,
+          "like_count": 15327,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/z8qqfA6E0B",
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}

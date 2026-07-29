@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2047606384896929876",
+    "created_at": "2026-04-24T09:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047606384896929876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1862861397304225792",
+          "start": 3,
+          "username": "Z3r0_404Error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047606384896929876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047377304616407435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z3r0_404Error: I guess I... I'm afraid.\nThere is nothing to be afraid of. Take a gamble that love exists, and do a loving act. https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047606384896929876].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047606384896929876",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047606384896929876"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2047377286404685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm-y2VawAAX5sR.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2047377286450872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm-y2gbgAAOqXv.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2047377286396305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm-y2Ta4AAppP7.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2047377286417281024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm-y2Ya8AA6rxJ.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047377286404685824",
+            "3_2047377286450872320",
+            "3_2047377286396305408",
+            "3_2047377286417281024"
+          ]
+        },
+        "author_id": "1862861397304225792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047377304616407435",
+        "created_at": "2026-04-23T18:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047377304616407435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dz3nM3u9r5",
+              "end": 135,
+              "expanded_url": "https://x.com/Z3r0_404Error/status/2047377304616407435/photo/1",
+              "media_key": "3_2047377286404685824",
+              "start": 112,
+              "url": "https://t.co/Dz3nM3u9r5"
+            },
+            {
+              "display_url": "pic.x.com/Dz3nM3u9r5",
+              "end": 135,
+              "expanded_url": "https://x.com/Z3r0_404Error/status/2047377304616407435/photo/1",
+              "media_key": "3_2047377286450872320",
+              "start": 112,
+              "url": "https://t.co/Dz3nM3u9r5"
+            },
+            {
+              "display_url": "pic.x.com/Dz3nM3u9r5",
+              "end": 135,
+              "expanded_url": "https://x.com/Z3r0_404Error/status/2047377304616407435/photo/1",
+              "media_key": "3_2047377286396305408",
+              "start": 112,
+              "url": "https://t.co/Dz3nM3u9r5"
+            },
+            {
+              "display_url": "pic.x.com/Dz3nM3u9r5",
+              "end": 135,
+              "expanded_url": "https://x.com/Z3r0_404Error/status/2047377304616407435/photo/1",
+              "media_key": "3_2047377286417281024",
+              "start": 112,
+              "url": "https://t.co/Dz3nM3u9r5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047377304616407435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I guess I... I'm afraid.\nThere is nothing to be afraid of. Take a gamble that love exists, and do a loving act. https://t.co/Dz3nM3u9r5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 130,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "雙相患者，老頭，迴避型人格障礙\n喜歡按讚repost一些愛看的東西，或者甩點日常或者遊戲寫真，會給喜歡的老師按讚repost",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B5%90%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B5%90%E6%9C%88",
+                "start": 0,
+                "url": "https://t.co/z8qqfA6E0B"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "City of glitch",
+        "name": "Z3r0",
+        "pinned_tweet_id": "2047377304616407435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045962857557401600/Yq6rUZJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 165,
+          "like_count": 15343,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 4556
+        },
+        "url": "https://t.co/z8qqfA6E0B",
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}

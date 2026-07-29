@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048040768296964096",
+        "3_2048040768506646529",
+        "3_2048040768326275072"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048040777453125710",
+    "created_at": "2026-04-25T14:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048040777453125710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhDff3co6b",
+          "end": 29,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+          "media_key": "3_2048040768296964096",
+          "start": 6,
+          "url": "https://t.co/IhDff3co6b"
+        },
+        {
+          "display_url": "pic.x.com/IhDff3co6b",
+          "end": 29,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+          "media_key": "3_2048040768506646529",
+          "start": 6,
+          "url": "https://t.co/IhDff3co6b"
+        },
+        {
+          "display_url": "pic.x.com/IhDff3co6b",
+          "end": 29,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+          "media_key": "3_2048040768326275072",
+          "start": 6,
+          "url": "https://t.co/IhDff3co6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048040777453125710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那我没招了 https://t.co/IhDff3co6b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048040768296964096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwaOk_b0AA5Jn8.jpg",
+        "width": 508
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048040768506646529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwaOlxbUAE6xXJ.jpg",
+        "width": 524
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048040768326275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwaOlGbEAAxzJ_.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048040768296964096",
+            "3_2048040768506646529",
+            "3_2048040768326275072"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048040777453125710",
+        "created_at": "2026-04-25T14:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048040777453125710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhDff3co6b",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+              "media_key": "3_2048040768296964096",
+              "start": 6,
+              "url": "https://t.co/IhDff3co6b"
+            },
+            {
+              "display_url": "pic.x.com/IhDff3co6b",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+              "media_key": "3_2048040768506646529",
+              "start": 6,
+              "url": "https://t.co/IhDff3co6b"
+            },
+            {
+              "display_url": "pic.x.com/IhDff3co6b",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2048040777453125710/photo/1",
+              "media_key": "3_2048040768326275072",
+              "start": 6,
+              "url": "https://t.co/IhDff3co6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048040777453125710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我没招了 https://t.co/IhDff3co6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 222,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

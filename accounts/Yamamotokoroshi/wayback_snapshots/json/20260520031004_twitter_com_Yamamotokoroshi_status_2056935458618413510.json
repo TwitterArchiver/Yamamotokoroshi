@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056935396525973504"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2056935458618413510",
+    "created_at": "2026-05-20T03:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056935458618413510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QJ46eHUB4z",
+          "end": 27,
+          "expanded_url": "https://x.com/Yamamotokoroshi/status/2056935458618413510/video/1",
+          "media_key": "13_2056935396525973504",
+          "start": 4,
+          "url": "https://t.co/QJ46eHUB4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056935458618413510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "波比～ https://t.co/QJ46eHUB4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9751,
+        "height": 1280,
+        "media_key": "13_2056935396525973504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056935396525973504/img/SIF3A6sJI2fhRbuu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056935396525973504/vid/avc1/320x568/Mk8ytnt0IW0be4Hd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056935396525973504/vid/avc1/480x852/RVLUL3VtYq8v_3bw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056935396525973504/vid/avc1/720x1280/M7jKeMumQ9h40L4r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056935396525973504/pl/F4EmVQfOYCNS561V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056935396525973504"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2056935458618413510",
+        "created_at": "2026-05-20T03:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056935458618413510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJ46eHUB4z",
+              "end": 27,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2056935458618413510/video/1",
+              "media_key": "13_2056935396525973504",
+              "start": 4,
+              "url": "https://t.co/QJ46eHUB4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056935458618413510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "波比～ https://t.co/QJ46eHUB4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AQOycPhNzZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AQOycPhNzZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 490,
+          "like_count": 1407,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

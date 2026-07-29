@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055942119513284608"
+      ],
+      "media_source_tweet_id": [
+        "2055942133123883508"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2055962876062691336",
+    "created_at": "2026-05-17T10:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055962876062691336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816489710682030080",
+          "start": 3,
+          "username": "keaiiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BDKSdpu6vV",
+          "end": 39,
+          "expanded_url": "https://x.com/keaiiea/status/2055942133123883508/photo/1",
+          "media_key": "3_2055942119513284608",
+          "start": 16,
+          "url": "https://t.co/BDKSdpu6vV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055962876062691336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055942133123883508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keaiiea: 猎奇 https://t.co/BDKSdpu6vV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2055942119513284608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgsdwBaYAAYMi4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055942119513284608"
+          ],
+          "media_source_tweet_id": [
+            "2055942133123883508"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2055962876062691336",
+        "created_at": "2026-05-17T10:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055962876062691336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816489710682030080",
+              "start": 3,
+              "username": "keaiiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDKSdpu6vV",
+              "end": 39,
+              "expanded_url": "https://x.com/keaiiea/status/2055942133123883508/photo/1",
+              "media_key": "3_2055942119513284608",
+              "start": 16,
+              "url": "https://t.co/BDKSdpu6vV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055962876062691336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055942133123883508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keaiiea: 猎奇 https://t.co/BDKSdpu6vV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055942119513284608"
+          ]
+        },
+        "author_id": "1816489710682030080",
+        "conversation_id": "2055942133123883508",
+        "created_at": "2026-05-17T09:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055942133123883508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDKSdpu6vV",
+              "end": 26,
+              "expanded_url": "https://x.com/keaiiea/status/2055942133123883508/photo/1",
+              "media_key": "3_2055942119513284608",
+              "start": 3,
+              "url": "https://t.co/BDKSdpu6vV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055942133123883508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 287,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猎奇 https://t.co/BDKSdpu6vV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/jNmBSxJaIe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cifHwzhznAJ7…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cifHwzhznAJ7?f=301",
+                "start": 106,
+                "url": "https://t.co/jNmBSxJaIe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 458,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfXs4"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 427,
+          "like_count": 27210,
+          "listed_count": 3,
+          "media_count": 471,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/tkjVWJfXs4",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

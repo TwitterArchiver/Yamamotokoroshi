@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055286661890859008"
+      ],
+      "media_source_tweet_id": [
+        "2055286664851837423"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2055496449778184458",
+    "created_at": "2026-05-16T03:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055496449778184458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022286504056459264",
+          "start": 3,
+          "username": "rrrrn_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5it2eRJwpe",
+          "end": 36,
+          "expanded_url": "https://x.com/rrrrn_c/status/2055286664851837423/photo/1",
+          "media_key": "3_2055286661890859008",
+          "start": 13,
+          "url": "https://t.co/5it2eRJwpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055496449778184458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055286664851837423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrrrn_c: https://t.co/5it2eRJwpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2055286661890859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXYVGGaYAABY0F.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055286661890859008"
+          ],
+          "media_source_tweet_id": [
+            "2055286664851837423"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2055496449778184458",
+        "created_at": "2026-05-16T03:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055496449778184458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022286504056459264",
+              "start": 3,
+              "username": "rrrrn_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5it2eRJwpe",
+              "end": 36,
+              "expanded_url": "https://x.com/rrrrn_c/status/2055286664851837423/photo/1",
+              "media_key": "3_2055286661890859008",
+              "start": 13,
+              "url": "https://t.co/5it2eRJwpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055496449778184458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055286664851837423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrrrn_c: https://t.co/5it2eRJwpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055286661890859008"
+          ]
+        },
+        "author_id": "2022286504056459264",
+        "conversation_id": "2055286664851837423",
+        "created_at": "2026-05-15T13:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055286664851837423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5it2eRJwpe",
+              "end": 23,
+              "expanded_url": "https://x.com/rrrrn_c/status/2055286664851837423/photo/1",
+              "media_key": "3_2055286661890859008",
+              "start": 0,
+              "url": "https://t.co/5it2eRJwpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055286664851837423",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 58701,
+          "like_count": 7755,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5it2eRJwpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/t0qygPAOpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/caFP7tNhdGRA…",
+                "end": 127,
+                "expanded_url": "https://www.kdocs.cn/l/caFP7tNhdGRA?f=301",
+                "start": 104,
+                "url": "https://t.co/t0qygPAOpE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 509,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T12:27:48.000Z",
+        "description": "let’s pretend I have an interesting bio, until I actually come up with one.",
+        "id": "2022286504056459264",
+        "name": "will happen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023120226146230272/bLYGGUnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 484,
+          "like_count": 2082,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 90
+        },
+        "username": "rrrrn_c",
+        "verified": true
+      }
+    ]
+  }
+}

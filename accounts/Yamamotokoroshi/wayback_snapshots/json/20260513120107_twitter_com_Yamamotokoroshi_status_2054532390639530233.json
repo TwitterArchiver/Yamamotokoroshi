@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2052348268596830661",
+    "created_at": "2026-05-13T12:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054532390639530233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028780243520286720",
+          "start": 0,
+          "username": "odvspr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054532390639530233",
+    "in_reply_to_user_id": "2028780243520286720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054523496613691607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odvspr 是嘟，我戒掉啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052348268596830661",
+        "created_at": "2026-05-13T12:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054532390639530233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028780243520286720",
+              "start": 0,
+              "username": "odvspr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054532390639530233",
+        "in_reply_to_user_id": "2028780243520286720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054523496613691607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odvspr 是嘟，我戒掉啦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028780243520286720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2052348268596830661",
+        "created_at": "2026-05-13T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054523496613691607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054523496613691607",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052348268596830661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 要健康噢，笑气本来后天准备再买点的，但鉴于容易瘫痪……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/t0qygPAOpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/caFP7tNhdGRA…",
+                "end": 127,
+                "expanded_url": "https://www.kdocs.cn/l/caFP7tNhdGRA?f=301",
+                "start": 104,
+                "url": "https://t.co/t0qygPAOpE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 485,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T10:31:37.000Z",
+        "description": "od普瑞，愈美，羟考酮，笑气，抽麻，各种爱玩，可互fo，本账号由虎门贩烟支队官方推特号，私信常开，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息",
+        "id": "2028780243520286720",
+        "name": "虎门贩烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032449530181099520/PiFybmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 153,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 198
+        },
+        "username": "odvspr",
+        "verified": false
+      }
+    ]
+  }
+}

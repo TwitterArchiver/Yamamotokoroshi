@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052367968261279744"
+      ],
+      "media_source_tweet_id": [
+        "2052750370791940440"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "conversation_id": "2052966227010846784",
+    "created_at": "2026-05-09T04:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052966227010846784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "81405774",
+          "start": 3,
+          "username": "kurageanime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0FZEw1CPN",
+          "end": 59,
+          "expanded_url": "https://x.com/kurageanime/status/2052750370791940440/photo/1",
+          "media_key": "3_2052367968261279744",
+          "start": 36,
+          "url": "https://t.co/I0FZEw1CPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052966227010846784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052750370791940440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurageanime: \"麺舞 / ramen dance\" https://t.co/I0FZEw1CPN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052367968261279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt5yxCakAASahi.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052367968261279744"
+          ],
+          "media_source_tweet_id": [
+            "2052750370791940440"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052966227010846784",
+        "created_at": "2026-05-09T04:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052966227010846784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "81405774",
+              "start": 3,
+              "username": "kurageanime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0FZEw1CPN",
+              "end": 59,
+              "expanded_url": "https://x.com/kurageanime/status/2052750370791940440/photo/1",
+              "media_key": "3_2052367968261279744",
+              "start": 36,
+              "url": "https://t.co/I0FZEw1CPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052966227010846784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052750370791940440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurageanime: \"麺舞 / ramen dance\" https://t.co/I0FZEw1CPN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052367968261279744"
+          ]
+        },
+        "author_id": "81405774",
+        "conversation_id": "2052750370791940440",
+        "created_at": "2026-05-08T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052750370791940440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0FZEw1CPN",
+              "end": 42,
+              "expanded_url": "https://x.com/kurageanime/status/2052750370791940440/photo/1",
+              "media_key": "3_2052367968261279744",
+              "start": 19,
+              "url": "https://t.co/I0FZEw1CPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750370791940440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 35244,
+          "like_count": 2752,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "\"麺舞 / ramen dance\" https://t.co/I0FZEw1CPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 105,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 419,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-10T17:49:24.000Z",
+        "description": "ナカガワヒロカズ（technology artist /animator）(倉敷芸術科学大学芸術学部)のつぶやき。つぶやきの内容・品質・品位・知性などは所属機関・コースとはあんまり関係はありません。（所属機関やコースは私よりも品位も知性も高いです。）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/HIROKAZU_NAKAG…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/HIROKAZU_NAKAGAWA",
+                "start": 0,
+                "url": "https://t.co/FspwOrrZeC"
+              }
+            ]
+          }
+        },
+        "id": "81405774",
+        "location": "岡山県倉敷市",
+        "name": "NAKAGAWA Hirokazu 動遊楽",
+        "pinned_tweet_id": "1978952043105784253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695974120712962048/0rSqpBI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10671,
+          "following_count": 1280,
+          "like_count": 112222,
+          "listed_count": 121,
+          "media_count": 20285,
+          "tweet_count": 38362
+        },
+        "url": "https://t.co/FspwOrrZeC",
+        "username": "kurageanime",
+        "verified": true
+      }
+    ]
+  }
+}

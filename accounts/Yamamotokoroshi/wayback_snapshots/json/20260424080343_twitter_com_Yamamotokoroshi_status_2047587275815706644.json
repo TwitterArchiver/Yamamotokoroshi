@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998720165622763520",
+        "3_1998720165643714560",
+        "3_1998720165647970304",
+        "3_1998720165673054210"
+      ],
+      "media_source_tweet_id": [
+        "1998720176293101788",
+        "1998720176293101788",
+        "1998720176293101788",
+        "1998720176293101788"
+      ]
+    },
+    "author_id": "2047273781098639360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      }
+    ],
+    "conversation_id": "2047587275815706644",
+    "created_at": "2026-04-24T08:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047587275815706644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816254834938634242",
+          "start": 3,
+          "username": "Ruyuu233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzGBOweUqw",
+          "end": 97,
+          "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+          "media_key": "3_1998720165622763520",
+          "start": 74,
+          "url": "https://t.co/gzGBOweUqw"
+        },
+        {
+          "display_url": "pic.x.com/gzGBOweUqw",
+          "end": 97,
+          "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+          "media_key": "3_1998720165643714560",
+          "start": 74,
+          "url": "https://t.co/gzGBOweUqw"
+        },
+        {
+          "display_url": "pic.x.com/gzGBOweUqw",
+          "end": 97,
+          "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+          "media_key": "3_1998720165647970304",
+          "start": 74,
+          "url": "https://t.co/gzGBOweUqw"
+        },
+        {
+          "display_url": "pic.x.com/gzGBOweUqw",
+          "end": 97,
+          "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+          "media_key": "3_1998720165673054210",
+          "start": 74,
+          "url": "https://t.co/gzGBOweUqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047587275815706644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998720176293101788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruyuu233: 自介：\n我是Ruyuu|汝鱼｜琉羽（看你喜欢怎么叫我）最近在玩valorant还有看vtuber\n求转发谢谢(´▽｀) https://t.co/gzGBOweUqw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047587275815706644].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047587275815706644",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047587275815706644"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1998720165622763520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zhZqVa0AAsdQ3.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1998720165643714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zhZqaagAAfNLu.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1998720165647970304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zhZqbbcAAuCCt.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1998720165673054210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zhZqhaMAI7PjJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998720165622763520",
+            "3_1998720165643714560",
+            "3_1998720165647970304",
+            "3_1998720165673054210"
+          ]
+        },
+        "author_id": "1816254834938634242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1998720176293101788",
+        "created_at": "2025-12-10T11:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998720176293101788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzGBOweUqw",
+              "end": 83,
+              "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+              "media_key": "3_1998720165622763520",
+              "start": 60,
+              "url": "https://t.co/gzGBOweUqw"
+            },
+            {
+              "display_url": "pic.x.com/gzGBOweUqw",
+              "end": 83,
+              "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+              "media_key": "3_1998720165643714560",
+              "start": 60,
+              "url": "https://t.co/gzGBOweUqw"
+            },
+            {
+              "display_url": "pic.x.com/gzGBOweUqw",
+              "end": 83,
+              "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+              "media_key": "3_1998720165647970304",
+              "start": 60,
+              "url": "https://t.co/gzGBOweUqw"
+            },
+            {
+              "display_url": "pic.x.com/gzGBOweUqw",
+              "end": 83,
+              "expanded_url": "https://x.com/Ruyuu233/status/1998720176293101788/photo/1",
+              "media_key": "3_1998720165673054210",
+              "start": 60,
+              "url": "https://t.co/gzGBOweUqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998720176293101788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3240,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自介：\n我是Ruyuu|汝鱼｜琉羽（看你喜欢怎么叫我）最近在玩valorant还有看vtuber\n求转发谢谢(´▽｀) https://t.co/gzGBOweUqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 110,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T23:31:30.000Z",
+        "description": "#shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1816254834938634242",
+        "location": "人生难度那么高怎么沒人出攻略?差评★☆☆☆☆",
+        "name": "爱你但说不出口",
+        "pinned_tweet_id": "1998720176293101788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033607852053700608/Hcro2D-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 408,
+          "like_count": 3959,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 3430
+        },
+        "username": "Ruyuu233",
+        "verified": false
+      }
+    ]
+  }
+}

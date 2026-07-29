@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2048976690018426916",
+    "created_at": "2026-04-28T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049142343455105459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692745937410772993",
+          "start": 0,
+          "username": "jiwenjin33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049142343455105459",
+    "in_reply_to_user_id": "1692745937410772993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049141753937268968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiwenjin33 试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2048976690018426916",
+        "created_at": "2026-04-28T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049142343455105459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692745937410772993",
+              "start": 0,
+              "username": "jiwenjin33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049142343455105459",
+        "in_reply_to_user_id": "1692745937410772993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049141753937268968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiwenjin33 试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692745937410772993",
+        "conversation_id": "2048976690018426916",
+        "created_at": "2026-04-28T15:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049141753937268968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049141753937268968",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048976690018426916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 我去！医生给我开的每日早2t安非他酮，居然有这种效果吗，也可能是我一直在睡觉没感觉到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@lengcuicui119大号\n@cVPrL20wIa42392二世（活着，登不上去）\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "lengcuicui119"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 342,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T03:51:14.000Z",
+        "description": "你嚎这里是三十三，重度焦虑双相治疗无果，是个遇事不决就od的傻逼偶尔自残，现生情况不好，脾气好欢迎互关！祝你幸福永远被爱❤️匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiwenjin33",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiwenjin33",
+                "start": 0,
+                "url": "https://t.co/0aGWAsqaRM"
+              }
+            ]
+          }
+        },
+        "id": "1692745937410772993",
+        "name": "寡婦門前是非多",
+        "pinned_tweet_id": "1815570863170687107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049124281850953728/iPsuoyT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 377,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/0aGWAsqaRM",
+        "username": "jiwenjin33",
+        "verified": false
+      }
+    ]
+  }
+}
