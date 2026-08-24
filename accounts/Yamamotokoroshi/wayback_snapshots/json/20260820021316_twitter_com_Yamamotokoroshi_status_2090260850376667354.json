@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047273781098639360",
+    "conversation_id": "2057592040691744896",
+    "created_at": "2026-08-20T02:13:16.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090260850376667354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1259404745757741057",
+          "start": 0,
+          "username": "Kongzhu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090260850376667354",
+    "in_reply_to_user_id": "1259404745757741057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090260701986386263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kongzhu123 哦豁！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090260701986386263].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090260701986386263",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090260701986386263"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2057592040691744896",
+        "created_at": "2026-08-20T02:13:16.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090260850376667354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1259404745757741057",
+              "start": 0,
+              "username": "Kongzhu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090260850376667354",
+        "in_reply_to_user_id": "1259404745757741057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090260701986386263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kongzhu123 哦豁！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bJtksMSdh8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/bJtksMSdh8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTPZHyp"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2090260850376667354",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2090258816688656690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047273781098639360/1776943527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 455,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/N7xkTPZHyp",
+        "username": "Yamamotokoroshi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-10T08:47:58.000Z",
+        "description": "不会社交，画画很差，推特多用来看神图，点赞+转推bot，如果有给您添麻烦的话非常抱歉!\nqueer ta/they demisexual greyromantic ND 双相",
+        "id": "1259404745757741057",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "1940040969497526548",
+        "name": "无色潮间带",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259404745757741057/1625986682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429310179527389191/f_-o3X_5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 2539,
+          "like_count": 21248,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "Kongzhu123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
